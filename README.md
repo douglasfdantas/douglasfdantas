@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @douglasfdantas
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python, Java and SQL
-- 💞️ I’m looking to collaborate on data analysis and Java projects
+- 💞️ I’m looking to collaborate on data analysis and Python projects
 - 📫 How to reach me: https://www.linkedin.com/in/douglasfdantas/
 
 <!---
