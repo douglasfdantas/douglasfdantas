@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglasfdantas
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, SQL and HTML.
+- 🌱 I’m currently learning Python, SQL and HTML
 - 💞️ I’m looking to collaborate on data analysis and Python projects
 - 📫 How to reach me: https://www.linkedin.com/in/douglasfdantas/
 
