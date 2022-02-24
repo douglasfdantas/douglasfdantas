@@ -10,7 +10,7 @@
 
 ## Principais Repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Python)](https://github.com/douglasfdantas/Python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=PowerBI)](https://github.com/douglasfdantas/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=PowerBI)](https://github.com/douglasfdantas/PowerBI)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Clustering_Olist)](https://github.com/douglasfdantas/Clustering_Olist)
 
 ## Top Langs
