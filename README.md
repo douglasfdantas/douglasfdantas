@@ -9,9 +9,9 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 ## Principais Repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Python)](https://github.com/douglasfdantas/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=PowerBI)](https://github.com/douglasfdantas/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Clustering_Olist)](https://github.com/douglasfdantas/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Python)](https://github.com/douglasfdantas/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=PowerBI)](https://github.com/douglasfdantas/Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=douglasfdantas&repo=Clustering_Olist)](https://github.com/douglasfdantas/Clustering_Olist)
 
 ## Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasfdantas&layout=compact)](https://github.com/douglasfdantas/github-readme-stats)
